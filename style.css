@@ -1,0 +1,26 @@
+body {
+    background-color: whitesmoke
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+
+}
+
+img {
+    width: 60px;
+    position: absolute;
+    top: 14px;
+    left: 450px;
+}
+table,tr,td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    background-color: gray;
+    
+
+    
+} 
+
